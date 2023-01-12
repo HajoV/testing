@@ -1,0 +1,3 @@
+[filter "dater"]
+	smudge = expand_date
+	clean = perl -pe \"s/\\\\\\$Date[^\\\\\\$]*\\\\\\$/\\\\\\$Date\\\\\\$/\"

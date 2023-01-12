@@ -1,7 +1,0 @@
-## testje
-
-$Id$
-
-#almost
-
-#EOF
